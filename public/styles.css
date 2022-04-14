@@ -1,0 +1,33 @@
+.heading {
+  color: red;
+}
+
+ul > li {
+  text-transform: capitalize;
+}
+
+.gallery__item {
+  display: inline-block;
+  margin: 1rem;
+}
+.gallery__item--image img {
+  width: 300px;
+  height: auto;
+}
+.footer {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+.li {
+  text-align: center;
+}
